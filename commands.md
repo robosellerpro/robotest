@@ -1,0 +1,2 @@
+/forms@namebot
+/noforms@namebot
