@@ -19,7 +19,7 @@
 
 ![Пример регистрации](https://telegra.ph/file/c5bfcf269b3b446d44978.png)
 
-Регистрация [здесь](tele.click/robosellerbot)
+Регистрация [здесь](https://tele.click/robosellerbot)
 
 ### Регистрация имени чат-бота, первичные настройки:
 
